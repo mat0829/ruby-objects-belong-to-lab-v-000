@@ -7,5 +7,4 @@
       end
       
     end
-    
-    song.artist.name
+    artist.name
